@@ -7,4 +7,4 @@ See the following for inspiration:
 * http://github.com/adamhjk/github-commit-email/tree/master
 
 h3. INSTALL
-# Copy 
+# Edit the config/email_lists.yml file as needed
