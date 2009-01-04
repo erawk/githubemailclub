@@ -7,4 +7,6 @@ See the following for inspiration:
 * http://github.com/adamhjk/github-commit-email/tree/master
 
 h3. INSTALL
+# Copy config/email_lists.yml.example to config/email_lists.yml
 # Edit the config/email_lists.yml file as needed
+# Point the post-receive hook to http://#{yourapp.com}/#{email_list}
