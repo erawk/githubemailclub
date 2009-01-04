@@ -1,0 +1,2 @@
+SetEnv GEM_HOME /home/ed/.gems
+SetEnv GEM_PATH /home/ed/.gems:/usr/lib/ruby/gems/1.8

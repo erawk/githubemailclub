@@ -1,0 +1,10 @@
+h1. README
+
+*GitHub Email Club* is a small Sinatra app that receives the post-push hook from GitHub and sends an email with a diff.
+
+See the following for inspiration:
+* http://github.com/jnunemaker/github-twitter/tree/master
+* http://github.com/adamhjk/github-commit-email/tree/master
+
+h3. INSTALL
+# Copy 

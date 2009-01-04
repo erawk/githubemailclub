@@ -1,0 +1,3 @@
+test:
+  to_emails: "ed@erawk.ca"
+  bcc_emails: "ed+1@erawk.ca, ed+2@erawk.ca"
